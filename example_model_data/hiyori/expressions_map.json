@@ -1,0 +1,14 @@
+{
+    "blush": "blush.exp3.json",
+    "cry": "cry.exp3.json",
+    "happy": "happy.exp3.json",
+    "laugh": "laugh.exp3.json",
+    "neutral": "neutral.exp3.json",
+    "pleased": "pleased.exp3.json",
+    "sad": "sad.exp3.json",
+    "shocked": "shocked.exp3.json",
+    "sleepy": "sleepy.exp3.json",
+    "smug": "smug.exp3.json",
+    "surprised": "surprised.exp3.json",
+    "thinking": "thinking.exp3.json"
+}

@@ -1,0 +1,891 @@
+{
+    "FacePositionX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -15.0,
+        "max": 15.0,
+        "defaultValue": 0.0
+    },
+    "FacePositionY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -15.0,
+        "max": 15.0,
+        "defaultValue": 0.0
+    },
+    "FacePositionZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "FaceAngleX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "FaceAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "FaceAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -90.0,
+        "max": 90.0,
+        "defaultValue": 0.0
+    },
+    "MouthSmile": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MouthOpen": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "Brows": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "TongueOut": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "CheekPuff": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "FaceAngry": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "BrowLeftY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "BrowRightY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "EyeOpenLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "EyeOpenRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "EyeLeftX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "EyeLeftY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "EyeRightX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "EyeRightY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MousePositionX": {
+        "addedBy": "VTube Studio",
+        "value": -0.30161052942276,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MousePositionY": {
+        "addedBy": "VTube Studio",
+        "value": -0.6770833730697632,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceVolume": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceFrequency": {
+        "addedBy": "VTube Studio",
+        "value": 0.5,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceVolumePlusMouthOpen": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceFrequencyPlusMouthSmile": {
+        "addedBy": "VTube Studio",
+        "value": 0.5,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceA": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceI": {
+        "addedBy": "VTube Studio",
+        "value": 2.4571213119717328e-11,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceU": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceE": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceO": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "VoiceSilence": {
+        "addedBy": "VTube Studio",
+        "value": 1.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MouthX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftFound": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandRightFound": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "BothHandsFound": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandDistance": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftPositionX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftPositionY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftPositionZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "HandRightPositionX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "HandRightPositionY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "HandRightPositionZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftAngleX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "HandRightAngleX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "HandRightAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftOpen": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandRightOpen": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftFinger_1_Thumb": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftFinger_2_Index": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftFinger_3_Middle": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftFinger_4_Ring": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandLeftFinger_5_Pinky": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandRightFinger_1_Thumb": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandRightFinger_2_Index": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandRightFinger_3_Middle": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandRightFinger_4_Ring": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "HandRightFinger_5_Pinky": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MocopiConnected": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MocopiHipAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiAngleX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiBodyAngleX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "MocopiBodyAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "MocopiBodyAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -10.0,
+        "max": 10.0,
+        "defaultValue": 0.0
+    },
+    "MocopiBodyPositionX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MocopiBodyPositionY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MocopiBodyPositionZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperArmLeftAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -90.0,
+        "max": 90.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperArmLeftAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperArmRightAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -90.0,
+        "max": 90.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperArmRightAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerArmLeftAngleX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerArmLeftAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -90.0,
+        "max": 90.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerArmLeftAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerArmRightAngleX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerArmRightAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -90.0,
+        "max": 90.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerArmRightAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -180.0,
+        "max": 180.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperLegLeftAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperLegLeftAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperLegRightAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiUpperLegRightAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerLegLeftAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerLegLeftAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerLegRightAngleY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "MocopiLowerLegRightAngleZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -30.0,
+        "max": 30.0,
+        "defaultValue": 0.0
+    },
+    "ControllerStickLeftX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerStickLeftY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerStickRightX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerStickRightY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerStickPressLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerStickPressRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerDPadX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerDPadY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTriangle": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerCross": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerSquare": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerCircle": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerShoulderLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerShoulderRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTriggerLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTriggerRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerOptionLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerOptionRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerHome": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadPress": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerButtonsAnyLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerButtonsAnyRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerButtonCountLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 4.0,
+        "defaultValue": 0.0
+    },
+    "ControllerButtonCountRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 4.0,
+        "defaultValue": 0.0
+    },
+    "ControllerLean": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerThumbPosLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 3.0,
+        "defaultValue": 0.0
+    },
+    "ControllerThumbPosRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 3.0,
+        "defaultValue": 0.0
+    },
+    "ControllerFingerPosLeft": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 2.0,
+        "defaultValue": 0.0
+    },
+    "ControllerFingerPosRight": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 2.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadTouchCount": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 2.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadFingerLeftActive": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": 0.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadFingerRightActive": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadFingerLeftX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadFingerLeftY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadFingerRightX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerTouchPadFingerRightY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -1.0,
+        "max": 1.0,
+        "defaultValue": 0.0
+    },
+    "ControllerOrientationX": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -60.0,
+        "max": 60.0,
+        "defaultValue": 0.0
+    },
+    "ControllerOrientationY": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -60.0,
+        "max": 60.0,
+        "defaultValue": 0.0
+    },
+    "ControllerOrientationZ": {
+        "addedBy": "VTube Studio",
+        "value": 0.0,
+        "min": -60.0,
+        "max": 60.0,
+        "defaultValue": 0.0
+    }
+}
