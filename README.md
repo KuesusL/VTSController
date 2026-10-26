@@ -60,14 +60,14 @@ The controller uses the following default connection settings:
 | Plugin name | `YOUR_PLUGIN_NAME` |
 | Plugin developer | `YOUR_NAME` |
 
-The plugin name and developer name are defined in the source code.
+The plugin name and developer name can be customized when creating a VTSController instance.
 
 ## Quick Start
 
 ```python
 from VTS import VTSController
 
-vts = VTSController()
+vts = VTSController("my_plugin", "my_name")
 
 try:
     vts.start()

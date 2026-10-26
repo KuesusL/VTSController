@@ -6,12 +6,14 @@ import websocket
 
 
 class VTSController:
-    def __init__(self, host="localhost", port=8001):
+    def __init__(self, host="localhost", port=8001, plugin_name="YOUR_PLUGIN_NAME", author="YOUR_NAME"):
         self.url = f"ws://{host}:{port}"
         
         self.ws = None
         self.token = None
         self.token_file = Path("token.json")
+        self.plugin_name = plugin_name
+        self.author = author
         
     def start(self):
         self._load_token()
@@ -54,8 +56,8 @@ class VTSController:
         response =  self._send_request(
             "AuthenticationTokenRequest",
             {
-                "pluginName": "YOUR_PLUGIN_NAME",
-                "pluginDeveloper": "YOUR_NAME"
+                "pluginName": self.plugin_name,
+                "pluginDeveloper": self.author
             }
         )
         
@@ -76,8 +78,8 @@ class VTSController:
         response = self._send_request(
             "AuthenticationRequest",
             {
-                "pluginName": "RIN",
-                "pluginDeveloper": "Lael",
+                "pluginName": self.plugin_name,
+                "pluginDeveloper": self.author,
                 "authenticationToken": self.token
             }
         )
@@ -87,8 +89,8 @@ class VTSController:
             response = self._send_request(
                 "AuthenticationRequest",
                 {
-                    "pluginName": "RIN",
-                    "pluginDeveloper": "Lael",
+                    "pluginName": self.plugin_name,
+                    "pluginDeveloper": self.author,
                     "authenticationToken": self.token
                 }
             )
@@ -147,7 +149,7 @@ class VTSController:
         return self._send_request("ParameterCreationRequest",
             {
                 "parameterName": parameter_name,
-		        "explanation": "Parameter created by RIN Controller.",
+		        "explanation": "Parameter created by VTS Controller.",
 		        "min": min_val,
 		        "max": max_val,
 		        "defaultValue": default_val
