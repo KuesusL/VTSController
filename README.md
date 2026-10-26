@@ -1,4 +1,4 @@
-# VTSController
+# VTSController - Experimental, May break
 
 A lightweight Python controller for interacting with the VTube Studio Public API through WebSocket.
 
